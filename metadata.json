@@ -1,0 +1,6 @@
+{
+  "name": "Munisipyo Online Appointment System",
+  "description": "Municipal online appointment booking system with automated slot limits, reference code tracking, admin master list print view, and database backup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
